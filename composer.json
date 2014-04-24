@@ -12,10 +12,5 @@
             "email": "zakir.hyder@gmail.com",
             "homepage": "https://github.com/zakir-hyder"
         }
-    ],
-
-    "require": {
-        "php": ">=5.4.0",
-        "guzzlehttp/streams": "~1.0"
-    }
+    ]
 }
