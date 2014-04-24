@@ -1,0 +1,21 @@
+{
+    "name": "OAuth 1/1.0a Library",
+    "type": "library",
+    "description": "This library includes all the class files needed for OAuth 1/1.0a",
+    "keywords": ["oauth 1","oauth 1.0a"],
+    "homepage": "http://blog.jambura.com/",
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "Zakir Hyder",
+            "email": "zakir.hyder@gmail.com",
+            "homepage": "https://github.com/zakir-hyder"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.4.0",
+        "guzzlehttp/streams": "~1.0"
+    }
+}
