@@ -1,11 +1,13 @@
 {
     "name": "zakirhyder/oauth-1-lib",
     "description": "This library includes all the classes needed for OAuth 1/1.0a",
+    "homepage": "http://blog.jambura.org/",
     "license": "MIT",
     "authors": [
         {
             "name": "Zakir Hyder",
-            "email": "zakir.hyder@gmail.com"
+            "email": "zakir.hyder@gmail.com",
+            "homepage": "https://github.com/zakir-hyder"
         }
     ],
     "minimum-stability": "dev",
